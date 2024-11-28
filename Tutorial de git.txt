@@ -1,0 +1,21 @@
+Principais comandos de git;
+
+1-Abrindo o terminal pelo vscode:
+	Ctrl +'  ou ver > Terminal.
+2- Verifica se o git está instalado:
+	git --version
+3- Iniciar o git:
+	git init
+4-Verificar quais os arquivos e o status desse arquivos dentro da pasta do projeto:
+	git status
+5- Adicionando arquivos:
+	git add .
+6- Adicionando arquivos espacíficos:
+	git add .\index.html
+7-Informando novas mudanças ao git
+	git commit -a -m   (-a informa todas "all" mudanças)
+			(-m "mensage" descrição da alteração)
+exemplo: git commit -a -m "Alteração de cor do título".
+
+8-
+
