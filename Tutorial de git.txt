@@ -17,5 +17,10 @@ Principais comandos de git;
 			(-m "mensage" descrição da alteração)
 exemplo: git commit -a -m "Alteração de cor do título".
 
-8-sdsd
+8-
+	git remote add origin https://github.com/EdsonSilva-bot2/Tutorial_git.git
+git branch -m main
+git push -u origin main.
 
+
+Testando alterações
