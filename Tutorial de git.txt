@@ -17,5 +17,5 @@ Principais comandos de git;
 			(-m "mensage" descrição da alteração)
 exemplo: git commit -a -m "Alteração de cor do título".
 
-8-
+8-sdsd
 
