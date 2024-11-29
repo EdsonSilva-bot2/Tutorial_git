@@ -23,4 +23,13 @@ git branch -m main
 git push -u origin main.
 
 
-Testando alterações
+Branchs
+1- checkout
+2- checkout 
+3-  git checkout -b "NovoBranch"  //tCriando nova  branch
+4-  git push --set-optream origin NovoBranch  // enviando a nova branch para o remoto 
+5-  git chechout "nome da branch" //mudando de branch
+6-  git branch // mostra em qual branch o usuário está
+7-  git merge NovoBranch  // mesclando as alterações do branch novo com o mais.
+8-  git clean -f   //removendo arquivos.
+9-  git checkout ./index.html // removendo ultima alteração no arquivo.
